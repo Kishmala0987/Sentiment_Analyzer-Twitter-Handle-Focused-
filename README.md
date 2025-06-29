@@ -1,0 +1,1 @@
+This is a simple Twitter Sentiment Analyzer built with Python, Streamlit, VADER, and Tweepy. It allows users to enter any public Twitter handle and analyzes the sentiment (positive, negative, or neutral) of their recent tweets. The app also supports custom text input and provides a visual breakdown of sentiment results through charts and summaries.
